@@ -1,0 +1,21 @@
+{
+  "flowcell_type": "FLO-MIN114",
+  "kit": "SQK-LSK114",
+  "device": "MinION",
+  "run_hours": 72.0,
+  "pores_at_start": 1334,
+  "pore_retention_24h": 0.2,
+  "pore_occupancy": 0.755,
+  "read_n50": 14353,
+  "median_read_length": 6593,
+  "mean_qscore": 12.579,
+  "pct_pass_reads": 0.805,
+  "pct_short_reads": 0.116,
+  "translocation_speed_bps": 386.953,
+  "temp_deviation_c": -0.06,
+  "basecall_model": "dna_r10.4.1_e8.2_400bps_sup@v5.0.0",
+  "total_bases_gb": 13.13,
+  "total_reads": 1524652,
+  "notes": "Fungal gDNA, column extraction.",
+  "run_id": "PAW31001"
+}
